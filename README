@@ -1,0 +1,3 @@
+use google regex searching to search for the mention of a word or phrase on a website specifed by 
+the user and then scrape the results using some scraping library (like bs4) to output the results to 
+the user using gtk3
